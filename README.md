@@ -7,3 +7,4 @@ This is my daily journal for writing notes as I learn and explore React Native.
 ## Daily Logs
 
 * Day 1 --> [Introduction to React Native](./Day-1/Intoduction-to-React-Native.md)
+* Day 1 --> [Visit React](./Day-2/Visit-React.md)
